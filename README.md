@@ -16,5 +16,6 @@
 <a href="https://github.com/aryankeluskar">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryankeluskar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryankeluskar&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aryankeluskar&theme=dark&border_radius=15&card_width=400&type=png" alt="GitHub Streak" /></a>
 </a>
 </p>
